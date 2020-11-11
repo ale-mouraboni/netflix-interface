@@ -1,4 +1,4 @@
-<h1 align="center">Netflix Clone</h1>
+<h1 align="center">Clone Netflix</h1>
 
   <p align="center">
 <img src="https://github.com/ale-mouraboni/netflix-interface/blob/main/assets/readme/netflix-clone.gif">
