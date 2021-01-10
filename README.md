@@ -31,7 +31,7 @@ $ git clone https://github.com/ale-mouraboni/netflix-interface.git
 
 #2 - Abra o index.html
 ```
-<h2 id="about">>:heavy_check_mark: About</h2>
+<h2 id="about">:heavy_check_mark: About</h2>
 <p>Projeto de Clone da Netflix desenvolvido durante o bootcamp HTML Web Developer na plataforma Digital Innovation One.
 <h4>Responsive?</h4>
 [x] Yes  [ ] No
