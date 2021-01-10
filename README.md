@@ -8,28 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> | 
+  <a href="#technology">Tecnologias</a> | 
   <a href="#c-utilizar">Como Utilizar</a> |
-  <a href="#technology">Tecnologias</a> |
+  <a href="#about">About</a> |
   <a href="#license">Licence</a> 
 </p>
 
-<h2 id="about">About</h2>
-<p>Projeto de Clone da Netflix desenvolvido durante o bootcamp HTML Web Developer na plataforma Digital Innovation One.
-<h4>Responsive?</h4>
-[x] Yes  [ ] No
-</p>
-
-<h2 id="c-utilizar">Como Utilizar</h2>
-
-```
-#1 - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/netflix-interface.git
-
-#2 - Abra o index.html
-```
-
-<h2 id="technology">Tecnologias</h2>
+<h2 id="technology">:globe_with_meridians: Tecnologias</h2>
 <p>Projeto desenvolvido com as seguintes tecnologias:</p>
 <ul>
   <li>HTML5</li>
@@ -38,6 +23,20 @@ $ git clone https://github.com/ale-mouraboni/netflix-interface.git
   <li>jQuery</li>
 </ul>
 
-<h2 id="license">License</h2>
+<h2 id="c-utilizar">:wrench: Como Utilizar</h2>
+
+```
+#1 - Clone o repositório
+$ git clone https://github.com/ale-mouraboni/netflix-interface.git
+
+#2 - Abra o index.html
+```
+<h2 id="about">>:heavy_check_mark: About</h2>
+<p>Projeto de Clone da Netflix desenvolvido durante o bootcamp HTML Web Developer na plataforma Digital Innovation One.
+<h4>Responsive?</h4>
+[x] Yes  [ ] No
+</p>
+
+<h2 id="license">:memo: License</h2>
 <p>This project is under the MIT license. See the [LICENSE] for more information.
 </p>
