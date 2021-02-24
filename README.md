@@ -1,6 +1,9 @@
-<h1 align="center">Clone Netflix</h1>
+<h1 align="center">Dino Game</h1>
 <p align="center">
-  <img src="assets/readme/netflix-clone.gif">
+  
+  ![Primeira Página](readme/demo.png)
+  ![Primeira Página](readme/demo.gif)
+
 </p>
 
 <p align="center">
@@ -8,22 +11,24 @@
 </p>
 
 <p align="center">
-  <a href="#technology">Tecnologias</a> | 
-  <a href="#c-utilizar">Como Utilizar</a> |
-  <a href="#about">About</a> |
-  <a href="#license">License</a> 
+   <a href="#globe_with_meridians-Tecnologias">Tecnologias</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-Como-Utilizar">Como Utilizar</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_check_mark-About">About</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a> 
+</p>
 </p>
 
-<h2 id="technology">:globe_with_meridians: Tecnologias</h2>
+## :globe_with_meridians: Tecnologias
 <p>Projeto desenvolvido com as seguintes tecnologias:</p>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>jQuery</li>
-</ul>
 
-<h2 id="c-utilizar">:wrench: Como Utilizar</h2>
+* HTML5
+* CSS3
+* jQuery
+
+## :wrench: Como Utilizar
 
 ```
 #1 - Clone o repositório
@@ -31,12 +36,16 @@ $ git clone https://github.com/ale-mouraboni/netflix-interface.git
 
 #2 - Abra o index.html
 ```
-<h2 id="about">:heavy_check_mark: About</h2>
-<p>Projeto de Clone da Netflix desenvolvido durante o bootcamp HTML Web Developer na plataforma Digital Innovation One.
-<h4>Responsive?</h4>
-[x] Yes  [ ] No
+
+## :heavy_check_mark: About
+<p>Esse é um projeto bem simples de um clone de uma interface da Netflix, desenvolvido com HTML, CSS e jQuery básico.
+</br>
+Esse projeto foi desenvolvido durante o bootcamp <strong>HTML Web Developer</strong> na plataforma <strong>Digital Innovation One</strong>.
 </p>
 
-<h2 id="license">:memo: License</h2>
+### Responsive?
+[x] Yes  [ ] No
+
+## :memo: License
 <p>This project is under the MIT license. See the [LICENSE] for more information.
 </p>
