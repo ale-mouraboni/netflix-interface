@@ -1,4 +1,4 @@
-<h1 align="center">Dino Game</h1>
+<h1 align="center">Netflix Interface</h1>
 <p align="center">
   
   ![Primeira Página](readme/demo.png)
