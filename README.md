@@ -9,20 +9,14 @@ Esse projeto é um clone de uma interface da Netflix, usei como base a série Mr
 
 </div>
 
----
-
 #### Link da Plataforma:
 
 * [Digital Innovation One](https://digitalinnovation.one/)
-
----
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 * jQuery
-
----
 
 Para ver o projeto você pode clonar ele com o seguinte comando:    
 
